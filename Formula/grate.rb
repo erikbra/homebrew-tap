@@ -4,7 +4,6 @@
 class Grate < Formula
     version "1.4.0"
 
-    name "grate"
     desc "grate - the SQL scripts migration runner"
     homepage "https://erikbra.github.io/grate/"
     license "MIT"
